@@ -15,3 +15,4 @@ run
 The application will infer the types of lambda expressions. The state and 
 the either monad are composed and the monad transformer stack is called TI.
 The inference algorithm runs in the TI monad.  
+
