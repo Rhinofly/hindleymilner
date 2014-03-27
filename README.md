@@ -9,8 +9,11 @@ To run this application:
 
 `
 cd /path/to/application
+
 sbt
+
 compile
+
 run
 `
 
